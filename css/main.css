@@ -1,0 +1,25 @@
+ul {
+	padding: 15px 12.5%;
+	background-color: tomato;
+	margin: 0;
+	text-align: center;
+}
+li {
+	display: inline-block;
+	width: 25%;
+	color: #FFF;
+}
+div.left, div.right {
+	vertical-align: top;
+	box-sizing: border-box;
+	display: inline-block;
+	width: 50%;
+	padding: 50px;
+}
+img {
+	position: absolute;
+	width: 500px;
+}
+section {
+	background-color: grey;
+}
